@@ -1,25 +1,39 @@
 {
   "movies": [
-    {id: 1,
-      name: 'Rogue One: A Star Wars Story',
-      info: 'Rogue One is set directly before Episode IV: A New Hope and focuses on the eponymous group of rebels who obtain the plans to the Death Star.[35] Its laser was developed by scientist Galen Erso (played by Mads Mikkelsen) after the Empire forcibly abducted him, separating him from his daughter Jyn. Galen secretly sends a defecting Imperial pilot, Bodhi Rook, to deliver a message warning of the weapon\'s existence and revealing its weakness to his rebel friend Saw Gerrera. Under the false promise of her father\'s liberation, Jyn agrees to help Rebel Alliance intelligence officer Cassian Andor and his droid K-2SO retrieve the message from Saw, now the paranoid leader of an extremist cell of rebels.',
-      img: '../assets/images/films/1.jpg',
-      releaseDate: 'December 10, 2016',
-      director: 'Gareth Edwards',
-      money: {
-        budget: '$200–265 million',
-        earned: '$1.058 billion'
+    {
+      "id": 1,
+      "name": "Star Wars: Episode IV – A New Hope",
+      "info": "The original eponymous Star Wars film[c] opens with a Rebel spaceship being intercepted by the Empire above the desert planet of Tatooine. Aboard, the deadly Imperial agent Darth Vader and his stormtroopers capture Princess Leia Organa, a secret member of the rebellion. Before her capture, Leia makes sure the droid R2-D2 will escape with stolen Imperial blueprints and a holographic message for the Jedi Knight Obi-Wan Kenobi, who has been living in exile on Tatooine. Along with C-3PO, R2-D2 falls under the ownership of Luke Skywalker, a farmboy who has been raised by his aunt and uncle. Luke helps the droids locate Obi-Wan, now a solitary old hermit known as Ben Kenobi. He reveals himself as a friend of Luke's absent father, Anakin Skywalker, who was Obi-Wan's Jedi apprentice until being murdered by Vader. He tells Luke he must also become a Jedi. After discovering his family's homestead has been destroyed by the Empire, they hire the smuggler Han Solo, his Wookiee co-pilot Chewbacca and their space freighter, the Millennium Falcon. They discover that Leia's homeworld of Alderaan has been destroyed, and are soon captured by the planet-destroying Death Star. While Obi-Wan disables its tractor beam, Luke and Han rescue the captive Princess Leia. Finally, they deliver the Death Star plans to the Rebel Alliance with the hope of exploiting a weakness.",
+      "img": "../assets/images/posters/episodeIV.jpg",
+      "releaseDate": "May 25, 1977",
+      "director": "George Lucas",
+      "money": {
+        "budget": "$11 million",
+        "earned": "$775.5 million"
       }
     },
-    {id: 2,
-      name: 'Star Wars: The Rise of Skywalker',
-      info: 'Star Wars: The Rise of Skywalker (also known as Star Wars: Episode IX – The Rise of Skywalker) is a 2019 American epic space opera film produced, co-written, and directed by J. J. Abrams. Produced by Lucasfilm and Abrams\' production company Bad Robot Productions, and distributed by Walt Disney Studios Motion Pictures, it is the third installment of the Star Wars sequel trilogy, following The Force Awakens (2015) and The Last Jedi (2017), and the final episode of the nine-part "Skywalker saga".[a] Its ensemble cast includes Carrie Fisher,[b] Mark Hamill, Adam Driver, Daisy Ridley, John Boyega, Oscar Isaac, Anthony Daniels, Naomi Ackie, Domhnall Gleeson, Richard E. Grant, Lupita Nyong\'o, Keri Russell, Joonas Suotamo, Kelly Marie Tran, Ian McDiarmid, and Billy Dee Williams. The Rise of Skywalker follows Rey, Finn, and Poe Dameron as they lead the Resistance\'s final stand against Supreme Leader Kylo Ren and the First Order, who are aided by the return of the Galactic Emperor, Palpatine.',
-      img: '../assets/images/films/2.jpg',
-      releaseDate: 'December 16, 2019',
-      director: 'J. J. Abrams',
-      money: {
-        budget: '$275 million',
-        earned: '$1.074 billion'
+    {
+      "id": 2,
+      "name": "Episode V – The Empire Strikes Back",
+      "info": "Set three years after the destruction of the Death Star,[18] The Empire Strikes Back begins with the Empire forcing the Rebel Alliance to evacuate its secret base on Hoth. Instructed by Obi-Wan's spirit, Luke travels to the swamp world of Dagobah to find the exiled Jedi Master Yoda. Luke's Jedi training is interrupted by Vader, who lures him into a trap by capturing Han and Leia at Cloud City, governed by Han's old friend Lando. During a fierce duel, Vader reveals a shocking truth about Luke's father.",
+      "img": "../assets/images/posters/episodeV.jpg",
+      "releaseDate": "May 21, 1980",
+      "director": "Irvin Kershner",
+      "money": {
+        "budget": "$23 million",
+        "earned": "$547.9 million"
+      }
+    },
+    {
+      "id": 3,
+      "name": "Star Wars VII",
+      "info": "",
+      "img": "../assets/images/posters/episodeIV.jpg",
+      "releaseDate": "",
+      "director": "Irvin Irvin",
+      "money": {
+        "budget": "",
+        "earned": ""
       }
     }
   ]
